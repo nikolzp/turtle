@@ -89,8 +89,6 @@ while True:
             turtle.write("You loss")
             break
 
-first_commit
-
 
 
 
